@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GlobalSulution_Eap.props" />
+</Project>
